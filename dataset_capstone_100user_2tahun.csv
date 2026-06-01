@@ -1,4 +1,4 @@
-user_id;date;week_start;workday;age;sex;height_cm;sleep_duration;study_work_duration;tasks_completed;exercise_duration;downtime_duration;stress_level;mood_score;focus_score
+user_id;date;week_start;workday;age;sex;height_cm;sleep_duration;study_work_duration;task_completed;exercise_duration;downtime_duration;stress_level;mood_score;focus_score
 1;01/01/2024;01/01/2024;TRUE;27.0;female;174.0;7.26;6.62;6.0;30.0;8.75;4.0;3.0;7.0
 1;02/01/2024;01/01/2024;TRUE;27.0;female;174.0;7.58;8.47;0.0;54.0;8.15;6.0;5.0;1.0
 1;03/01/2024;01/01/2024;TRUE;27.0;female;174.0;8.16;6.98;10.0;26.0;5.63;2.0;6.0;7.0
